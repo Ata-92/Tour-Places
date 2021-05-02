@@ -1,0 +1,23 @@
+.Navbar {
+  background-color: black;
+  text-align: center;
+}
+
+.links {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding: 1rem;
+  font-size: larger;
+}
+
+a:hover {
+  background-color: aqua;
+}
