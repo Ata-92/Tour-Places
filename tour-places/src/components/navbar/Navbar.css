@@ -20,5 +20,6 @@ a {
 }
 
 a:hover {
-  background-color: aqua;
+  background-color: #AEE0F8;
+  color: black;
 }
