@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tour-Places/static/css/main.371110ec.chunk.css",
-    "main.js": "/Tour-Places/static/js/main.fed45553.chunk.js",
-    "main.js.map": "/Tour-Places/static/js/main.fed45553.chunk.js.map",
+    "main.js": "/Tour-Places/static/js/main.79403935.chunk.js",
+    "main.js.map": "/Tour-Places/static/js/main.79403935.chunk.js.map",
     "runtime-main.js": "/Tour-Places/static/js/runtime-main.42013d36.js",
     "runtime-main.js.map": "/Tour-Places/static/js/runtime-main.42013d36.js.map",
     "static/js/2.100caa96.chunk.js": "/Tour-Places/static/js/2.100caa96.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42013d36.js",
     "static/js/2.100caa96.chunk.js",
     "static/css/main.371110ec.chunk.css",
-    "static/js/main.fed45553.chunk.js"
+    "static/js/main.79403935.chunk.js"
   ]
 }
